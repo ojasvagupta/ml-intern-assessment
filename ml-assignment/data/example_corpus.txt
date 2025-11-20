@@ -1,6 +1,0 @@
-This is an example corpus for the trigram assignment.
-It contains a few sentences to get you started.
-You can use this corpus to train and test your trigram model.
-Feel free to add more text to this file or use your own corpus.
-The more data you have, the better your model will be.
-Good luck!
